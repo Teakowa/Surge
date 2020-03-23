@@ -6,5 +6,8 @@ DOMAIN-SUFFIX,dongmanmanhua.cn
 DOMAIN-SUFFIX,growingio.com
 DOMAIN-SUFFIX,ihg.com
 DOMAIN-SUFFIX,ihg.com.cn
+DOMAIN-SUFFIX,samsclub.com
+DOMAIN-SUFFIX,smart2pay.com
+DOMAIN-SUFFIX,sc.com
 
 PROCESS-NAME,/Applications/Thunder.app/Contents/XPCServices/DownloadService.xpc/Contents/MacOS/DownloadService
