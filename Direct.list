@@ -1,4 +1,5 @@
 
+DOMAIN-SUFFIX,digitalcardservice.com
 DOMAIN-SUFFIX,download.cdn.mozilla.net
 DOMAIN-SUFFIX,download.mozilla.org
 DOMAIN-SUFFIX,warframe.com
@@ -9,5 +10,6 @@ DOMAIN-SUFFIX,ihg.com.cn
 DOMAIN-SUFFIX,samsclub.com
 DOMAIN-SUFFIX,smart2pay.com
 DOMAIN-SUFFIX,sc.com
+DOMAIN-SUFFIX,visa.com
 
 PROCESS-NAME,/Applications/Thunder.app/Contents/XPCServices/DownloadService.xpc/Contents/MacOS/DownloadService
